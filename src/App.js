@@ -1,4 +1,4 @@
-import './App.css';
+
 import Todo from './Component/creatToDo';
 import Register from './Component/register';
 
